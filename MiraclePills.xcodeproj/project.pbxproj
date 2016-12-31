@@ -12,6 +12,15 @@
 		8913D51C1E16BA11004F4AF5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8913D51A1E16BA11004F4AF5 /* Main.storyboard */; };
 		8913D51E1E16BA11004F4AF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8913D51D1E16BA11004F4AF5 /* Assets.xcassets */; };
 		8913D5211E16BA11004F4AF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8913D51F1E16BA11004F4AF5 /* LaunchScreen.storyboard */; };
+		8913D5311E16BB0E004F4AF5 /* buyNowBtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 8913D5281E16BB0E004F4AF5 /* buyNowBtn.png */; };
+		8913D5321E16BB0E004F4AF5 /* buyNowBtn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8913D5291E16BB0E004F4AF5 /* buyNowBtn@2x.png */; };
+		8913D5331E16BB0E004F4AF5 /* buyNowBtn@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8913D52A1E16BB0E004F4AF5 /* buyNowBtn@3x.png */; };
+		8913D5341E16BB0E004F4AF5 /* miraclePillEmoji.png in Resources */ = {isa = PBXBuildFile; fileRef = 8913D52B1E16BB0E004F4AF5 /* miraclePillEmoji.png */; };
+		8913D5351E16BB0E004F4AF5 /* miraclePillEmoji@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8913D52C1E16BB0E004F4AF5 /* miraclePillEmoji@2x.png */; };
+		8913D5361E16BB0E004F4AF5 /* miraclePillEmoji@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8913D52D1E16BB0E004F4AF5 /* miraclePillEmoji@3x.png */; };
+		8913D5371E16BB0E004F4AF5 /* successIndicator.png in Resources */ = {isa = PBXBuildFile; fileRef = 8913D52E1E16BB0E004F4AF5 /* successIndicator.png */; };
+		8913D5381E16BB0E004F4AF5 /* successIndicator@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8913D52F1E16BB0E004F4AF5 /* successIndicator@2x.png */; };
+		8913D5391E16BB0E004F4AF5 /* successIndicator@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8913D5301E16BB0E004F4AF5 /* successIndicator@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +31,15 @@
 		8913D51D1E16BA11004F4AF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8913D5201E16BA11004F4AF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8913D5221E16BA11004F4AF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8913D5281E16BB0E004F4AF5 /* buyNowBtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buyNowBtn.png; sourceTree = "<group>"; };
+		8913D5291E16BB0E004F4AF5 /* buyNowBtn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "buyNowBtn@2x.png"; sourceTree = "<group>"; };
+		8913D52A1E16BB0E004F4AF5 /* buyNowBtn@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "buyNowBtn@3x.png"; sourceTree = "<group>"; };
+		8913D52B1E16BB0E004F4AF5 /* miraclePillEmoji.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = miraclePillEmoji.png; sourceTree = "<group>"; };
+		8913D52C1E16BB0E004F4AF5 /* miraclePillEmoji@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "miraclePillEmoji@2x.png"; sourceTree = "<group>"; };
+		8913D52D1E16BB0E004F4AF5 /* miraclePillEmoji@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "miraclePillEmoji@3x.png"; sourceTree = "<group>"; };
+		8913D52E1E16BB0E004F4AF5 /* successIndicator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = successIndicator.png; sourceTree = "<group>"; };
+		8913D52F1E16BB0E004F4AF5 /* successIndicator@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "successIndicator@2x.png"; sourceTree = "<group>"; };
+		8913D5301E16BB0E004F4AF5 /* successIndicator@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "successIndicator@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +76,15 @@
 				8913D5181E16BA11004F4AF5 /* ViewController.swift */,
 				8913D51A1E16BA11004F4AF5 /* Main.storyboard */,
 				8913D51D1E16BA11004F4AF5 /* Assets.xcassets */,
+				8913D5281E16BB0E004F4AF5 /* buyNowBtn.png */,
+				8913D5291E16BB0E004F4AF5 /* buyNowBtn@2x.png */,
+				8913D52A1E16BB0E004F4AF5 /* buyNowBtn@3x.png */,
+				8913D52B1E16BB0E004F4AF5 /* miraclePillEmoji.png */,
+				8913D52C1E16BB0E004F4AF5 /* miraclePillEmoji@2x.png */,
+				8913D52D1E16BB0E004F4AF5 /* miraclePillEmoji@3x.png */,
+				8913D52E1E16BB0E004F4AF5 /* successIndicator.png */,
+				8913D52F1E16BB0E004F4AF5 /* successIndicator@2x.png */,
+				8913D5301E16BB0E004F4AF5 /* successIndicator@3x.png */,
 				8913D51F1E16BA11004F4AF5 /* LaunchScreen.storyboard */,
 				8913D5221E16BA11004F4AF5 /* Info.plist */,
 			);
@@ -123,9 +150,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8913D5311E16BB0E004F4AF5 /* buyNowBtn.png in Resources */,
+				8913D5341E16BB0E004F4AF5 /* miraclePillEmoji.png in Resources */,
+				8913D5381E16BB0E004F4AF5 /* successIndicator@2x.png in Resources */,
+				8913D5391E16BB0E004F4AF5 /* successIndicator@3x.png in Resources */,
 				8913D5211E16BA11004F4AF5 /* LaunchScreen.storyboard in Resources */,
+				8913D5321E16BB0E004F4AF5 /* buyNowBtn@2x.png in Resources */,
 				8913D51E1E16BA11004F4AF5 /* Assets.xcassets in Resources */,
+				8913D5361E16BB0E004F4AF5 /* miraclePillEmoji@3x.png in Resources */,
+				8913D5331E16BB0E004F4AF5 /* buyNowBtn@3x.png in Resources */,
+				8913D5351E16BB0E004F4AF5 /* miraclePillEmoji@2x.png in Resources */,
 				8913D51C1E16BA11004F4AF5 /* Main.storyboard in Resources */,
+				8913D5371E16BB0E004F4AF5 /* successIndicator.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
